@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[skr:home|Door43 (skr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-skr|d43-skr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-skr/archive/master.zip|d43-skr.zip]]
+
+**Recent Changes**
+{{changes>ns = skr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/skr|Ethnologue data]]
+
